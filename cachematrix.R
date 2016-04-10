@@ -41,7 +41,7 @@ cacheSolve <- function(x, ...) {
             m    
       }
       else
-      {     message("Input matrix must be a square matrix.  ")
-            
+      {     
+      message("Input matrix must be a square matrix.  ")
       }
 }
